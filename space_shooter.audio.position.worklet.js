@@ -27,7 +27,7 @@
 /* TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE      */
 /* SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                 */
 /**************************************************************************/
-
+ 
 const POST_THRESHOLD_S = 0.1;
 
 class GodotPositionReportingProcessor extends AudioWorkletProcessor {
